@@ -1,6 +1,10 @@
 ## 涩涩游戏库 👋
+
 分享绅士游戏资源
+
 github pages地址：[https://sesegaes.github.io](https://sesegaes.github.io)
+
+网址地址：[www.qfafa.com](https://www.qfafa.com)
 <!--
 **sesegames/sesegames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
