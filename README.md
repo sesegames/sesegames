@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## 涩涩游戏库 👋
+分享绅士游戏资源
+github pages地址：[https://sesegaes.github.io](https://sesegaes.github.io)
 <!--
 **sesegames/sesegames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
