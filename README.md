@@ -2,7 +2,7 @@
 
 分享绅士游戏资源
 
-github pages地址：[https://sesegaes.github.io](https://sesegaes.github.io)
+github pages地址：[https://sesegames.github.io](https://sesegames.github.io)
 
 网址地址：[www.qfafa.com](https://www.qfafa.com)
 <!--
